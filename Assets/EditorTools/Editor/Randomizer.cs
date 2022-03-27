@@ -94,7 +94,7 @@ namespace NorthLab.EditorTools
                     if (randomScale)
                         selection[i].transform.localScale = Vector3.one * Random.Range(minScale, maxScale);
 
-                    if (scene)
+                    if (scene != null)
                         EditorSceneManager.MarkSceneDirty(scene.scene);
                 }
             }

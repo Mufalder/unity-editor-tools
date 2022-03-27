@@ -1,0 +1,2 @@
+Demo folder is not necessary to run these tools.
+All classes is in the "NorthLab.EditorTools" namespace to avoid the naming issues. Also to reduce the "Tools" menu cluttering, all tools located in the "Tools/NorthLab" menu.

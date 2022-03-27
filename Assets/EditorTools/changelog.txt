@@ -1,0 +1,4 @@
+v1.0
+-Rearranged folders
+-Added changelog and readme files
+-Corrected null scene check in the randomizer
